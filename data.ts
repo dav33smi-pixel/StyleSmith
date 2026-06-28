@@ -1,0 +1,11 @@
+export const profile = { name:'David', height:'185cm', weight:'105kg', chest:'46"', waist:'38"', jacket:'46R', trousers:'38W x 32L', shoe:'UK 12', budget:'~£200 per outfit', fit:'Regular fit', palette:['navy','charcoal','black','white','beige','olive','maroon','mauve','dark green','grey'] };
+export const wardrobe = [
+ ['Outerwear','Navy overcoat'],['Outerwear','Black bomber'],['Outerwear','Olive overshirt'],['Knitwear','Navy merino jumper'],['Knitwear','Grey quarter zip'],['Shirts','White Oxford'],['Shirts','Light blue Oxford'],['Shirts','Black fitted shirt'],['T-shirts','Black t-shirts x4'],['T-shirts','White t-shirts x4'],['T-shirts','Navy t-shirts x3'],['Jeans','Dark indigo jeans'],['Jeans','Black jeans'],['Jeans','Mid blue jeans'],['Chinos','Beige chinos'],['Chinos','Navy chinos'],['Chinos','Olive chinos'],['Footwear','Brown Chelsea boots'],['Footwear','White trainers'],['Footwear','Black trainers']
+];
+export const outfits = [
+ {title:'Smart Casual Foundation', occasion:'Smart casual', budget:'£0 new spend', owned:['Navy overcoat','Navy merino jumper','White t-shirt','Dark indigo jeans','Brown Chelsea boots'], buy:['Dark brown belt'], note:'Strong vertical line, broad shoulders emphasised, no unnecessary bulk.'},
+ {title:'Casual Date', occasion:'Casual date', budget:'£45–£90', owned:['Olive overshirt','White t-shirt','Black jeans','White trainers'], buy:['Textured watch strap'], note:'Relaxed but intentional; olive works well against your colouring.'},
+ {title:'Evening Date', occasion:'Evening date', budget:'£70–£160', owned:['Black fitted shirt','Dark indigo jeans','Brown Chelsea boots','Navy overcoat'], buy:['Burgundy merino jumper optional'], note:'Dark, clean and flattering; ideal for dinner or drinks.'},
+ {title:'Sport Luxe', occasion:'Sport look', budget:'£50–£120', owned:['Grey quarter zip','Black jeans','Black trainers'], buy:['Premium plain black tee'], note:'Athletic without looking like gym wear.'},
+ {title:'Business Casual Lite', occasion:'Business casual', budget:'£80–£200', owned:['Light blue Oxford','Navy chinos','Brown Chelsea boots','Navy overcoat'], buy:['Navy textured blazer'], note:'Useful for courses, client meetings and recruiter catch-ups.'}
+];
